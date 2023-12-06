@@ -1,2 +1,2 @@
 # Docker-backend
-Bbasic backend application with docker and python flask
+Basic backend application with docker and python flask
